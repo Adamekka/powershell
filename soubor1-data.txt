@@ -1,0 +1,4 @@
+Novak Jiri;novak@posta.cz;16000;Kutna Hora
+# Polak Vlastimil;vlastik@posta.cz;12000;Kolin
+Svoboda Karel;karlik@posta.cz;15000;Pardubice
+Dvorak Frantisek;fanda@posta.cz;18000;Chrudim
