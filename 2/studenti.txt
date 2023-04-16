@@ -1,0 +1,20 @@
+Příjmení;Jméno;Třída;Ročník;Pohlaví
+Adamec;Jan;E3A;Třetí ročník;Muž
+Adamský;Dominik;E3B;Třetí ročník;Muž
+Babinec;Radek;T3A;Třetí ročník;Muž
+Bajer;Filip;E3B;Třetí ročník;Muž
+Bartoň;Adam;T1A;První ročník;Muž
+Bartoň;Martin;E1B;První ročník;Muž
+Bartoň;Martin;T4A;Čtvrtý ročník;Muž
+Bartoš;Jakub;T4A;Čtvrtý ročník;Muž
+Bečirovič;Bilal;E3A;Třetí ročník;Muž
+Bělecký;Adam;E3A;Třetí ročník;Muž
+Bělunek;Filip;E1A ;První ročník;Muž
+Beránek;Jaromír;E3A;Třetí ročník;Muž
+Bil;Jakub;E2B;Druhý ročník;Muž
+Bílek;Michal;E3B;Třetí ročník;Muž
+Blažek;Lukáš;E4A;Čtvrtý ročník;Muž
+Bocek;Nicholas Brian;T1A;První ročník;Muž
+Boháč;David;E1B;První ročník;Muž
+Bonček;Matěj;E3B;Třetí ročník;Muž
+Bönisch;Radim;E2A;Druhý ročník;Muž
