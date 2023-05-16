@@ -13,10 +13,10 @@ else {
 $server = Read-Host "Enter a domain name or IP address of a server"
 
 # Output the packet path to the specified server address
-Test-NetConnection -ComputerName $Server | Out-File "internet.txt" -Append
+Test-NetConnection -ComputerName $server | Out-File "internet.txt" -Append
 
 # Output information about the specified domain using the whois command
-$who_is_result = whois $server
+$who_is_result = .\whois.exe $server
 $who_is_result | Out-File "internet.txt" -Append
 
 # Output DNS records of the specified domain using the nslookup command
